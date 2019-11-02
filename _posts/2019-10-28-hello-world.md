@@ -6,12 +6,12 @@ feature_image: "https://picsum.photos/2560/600?image=872"
 
 I've been dedicated to using WordPress for all my websites during the last 15 years. But now, I'm trying something new. Primarily because I'm frustrated at the poor featureset of WordPress out-of-the-box. Together with poor starting speed that gets slower as I rectify the lack of features with performance-draining plugins.
 
-Now, I won't be dropping WordPress completely. Because it has a place in certain applications. So I will explore better ways to implement WordPress for specific projects during 2020. But for the rest of this year, I will focus on 3 ways I will develop some websites *after WordPress*
+Now, I won't be dropping WordPress completely. Because it has a place in certain applications. So I will explore better ways to implement WordPress for specific projects during 2020. But for the rest of this year, I will focus on 3 ways that I will develop some websites *after WordPress*
 
 ## Purpose of Hello World
 The purpose of this article is to present a brief indication of what I intend this website to be.
 
-But because this post precedes any formal structure to the site, it can only give a hint of what's to come. So if your interested in extending your online publishing skills beyond WordPress, this site will help you. However, you'll need to be patient because I haven't even installed the notification service yet.
+But because this post precedes any formal structure to the site, it can only give a hint of what's to come. So if you're interested in extending your online publishing skills beyond WordPress, this site will help you. However, you'll need to be patient because I haven't even installed the notification service yet.
 
 ## What to do After WordPress
 Here are my three ways to restart or renew my websites *after WordPress*.
@@ -22,12 +22,12 @@ I have some neglected WordPress websites that I intend to *almost* start again. 
 At the same time, I will document my processes here. Also, I'll create a [starter kit to help me deploy new Jekyll websites in a consistent way](https://shrewdies.netlify.com/). Thus, I will create routines to start new websites after WordPress.
 
 ### 2. Migrate WordPress by Export & Import
-Some of my larger sites are suitable for maintaining using HTML and/or MarkDown plain text editing. In fact, I use WordPress Classical Editor for all sites where I am the sole author. So I can gain significant speed iprovements by transferring the content to a static Jekyll platform. But I have too much valuable content to attempt a manual trandfer.
+Some of my larger sites are suitable for maintaining using HTML and/or MarkDown plain text editing. In fact, I use WordPress Classical Editor for all sites where I am the sole author. So I can gain significant speed iprovements by transferring the content to a static Jekyll platform. But I have too much valuable content to attempt a manual transfer.
 
 Therefore, I will invest some time in researching methods that other people have used. Then I can develop my own routines for migrating these sites away from WordPress.
 
 ### 3. Enhance WordPress by Headless Content Delivery
-Before I explain my third tactic, I must emphasize that I will continue to publish WordPress websites when that Content Management System is appropriate. Also, I believe WordPress has a place for authors who don't or won't learn any other way to author and edit content. Afterall, there's no need to disrupt a valuable content production team when we have ways to unite dynamic content with static presentation.
+Before I explain my third tactic, I must emphasize that I will continue to publish WordPress websites when that Content Management System is appropriate. Also, I believe WordPress has a place for authors who don't or won't learn any other way to author and edit content. Afterall, there's no need to disrupt a valuable content production team when we have ways to unite dynamic content from WordPress with static presentation by Jekyll.
 
 So we sometimes need WordPress for content authoring. But we also want to make it as fast as it can be. Hence a growing trend to use JAMstack sites to publish WordPress (and other) content. Thus we end up with a fast static frontend that publishes data from a separate backend. Which is often referred to as Headless WordPress or Decoupled Wordpress.
 
