@@ -8,8 +8,6 @@ I've been dedicated to using WordPress for all my websites during the last 15 ye
 
 Now, I won't be dropping WordPress completely. Because it has a place in certain applications. So I will explore better ways to implement WordPress for specific projects during 2020. But for the rest of this year, I will focus on 3 ways I will develop some websites *after WordPress*
 
-<--more-->
-
 ## Purpose of Hello World
 The purpose of this article is to present a brief indication of what I intend this website to be.
 
@@ -48,13 +46,8 @@ Unusualy, I've started this website before I've developed my Jekyll site deploym
 
 #### Hello World Footnotes
 "On Your Bike" explanation [courtesy of cristóbal](https://forum.wordreference.com/threads/on-your-bike.6053/#post-41562):
-> Hit the road, jack.
-> Get packin'.
-> Don't let the door hit you on the way out.
-> Make tracks.
-> Go on, git!
-> Beat it.
+> Hit the road, jack. Get packin'. Don't let the door hit you on the way out. Make tracks. Go on, git! Beat it.
 > 
-> All perfectly American ways of saying the same, although "on your bike" is very cool, IMHO. :)
+> <p>All perfectly American ways of saying the same, although "on your bike" is very cool, IMHO. :)</p>
 
 But I'm not really saying *Beat it* to WordPress. Just use the bicycle when appropriate. Then strap it to the car when it makes sense. Or just enjoy a walk.
