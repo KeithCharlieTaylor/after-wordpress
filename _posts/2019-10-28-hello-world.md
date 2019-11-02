@@ -36,6 +36,8 @@ So we sometimes need WordPress for content authoring. But we also want to make i
 Therefore, my third approach to publishing websites *after WordPress* will be to research and present easy-to-use tools in this area. Along the way, I'll try to explain the differences between "Headless" and "Decoupled". Also, I will prepare guides to help you decide which approach suits different purposes.
 
 ![On Your Bike, WordPress](/static/img/on-your-bike-wordpress.jpg)
+*On Your Bike, WordPress* <sup>[*](#hello-world-footnotes)</sup>
+
 ## After WordPress Summary
 To summarize, I will use this website to explain:
 1. How to **start websites after WordPress**.
