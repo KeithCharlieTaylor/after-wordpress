@@ -49,4 +49,4 @@ Unusualy, I've started this website before I've developed my Jekyll site deploym
 > Hit the road, jack.<br />Get packin'.<br />Don't let the door hit you on the way out.<br />Make tracks.<br />Go on, git!<br />Beat it.<br /><br />
 > All perfectly American ways of saying the same, although "on your bike" is very cool, IMHO. :)
 
-But I'm not really saying *Beat it* to WordPress. Just use the bicycle when appropriate. Then strap it to the car when it makes sense. Or just enjoy a walk.
+But I'm not really saying *Beat it* to WordPress. So, just use the bicycle when appropriate. Then strap it to the car when it makes sense. Or just enjoy a walk.
