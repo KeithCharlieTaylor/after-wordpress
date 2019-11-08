@@ -26,6 +26,12 @@ description: 'Where to go After WordPress'
 permalink: pretty
 logo: "https://www.gravatar.com/avatar/7a6778e090aa22bf10a848d313815cc9?s=52"
 
+favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
+  16: '/static/img/logo@16px.png'
+  32: '/static/img/logo@32px.png'
+  180: '/static/img/logo@180px.png'
+  512: '/static/img/logo@512px.png'
+
 # Pagination
 paginate: 5
 paginate_path: blog/page:num
